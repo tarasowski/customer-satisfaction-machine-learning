@@ -3,9 +3,7 @@
 The goal of this project is to use AWS infrastructure to make sentiment analysis
 at scale. The data was provided by Stanford University. The trained model
 can be used to make real-time and batch predictions. The repository contains 
-infrastructure as code that can be deployed for real-time predictions.
-
-Figure 1.0 shows the architecture of the project
+infrastructure as code that can be deployed for real-time predictions. Figure 1.0 shows the basic architecture of the project.
 
 ![architecture](https://www.tarasowski.de/img/satisfaction/figure-10-architecture.png)
 
