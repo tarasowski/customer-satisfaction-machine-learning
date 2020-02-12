@@ -8,6 +8,7 @@ infrastructure as code that can be deployed for real-time predictions.
 Figure 1.0 shows the architecture of the project
 
 ![architecture](https://www.tarasowski.de/img/satisfaction/figure-10-architecture.png)
+
 **Figure 1.0: Sentiment Analysis Architecture**
 
 ## Pre-requisites
