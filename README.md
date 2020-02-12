@@ -45,7 +45,7 @@ endpoint, API Gateway endpoint, and AWS Lambda.
 
 5) Test the newly created endpoint. Send a test review to receive 1 for positive
 and 0 for negative.
-* Basic usage: `curl -d "It was an awesome movie. I do recommed the movie." -X POST https://xxxxxxx.execute-api.aws-region.amazonaws.com/predict`
+* Basic usage: `curl -d "It was an awesome movie. I do recommend the movie." -X POST https://xxxxxxx.execute-api.aws-region.amazonaws.com/predict`
 
 **Important**: The AWS Sagemaker endpoints are billed per seconds. The endpoints
 are not serverless. Therefore the endpoint should be deleted if not in use. The deletion of the CloudFormation
